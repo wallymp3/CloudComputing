@@ -9,9 +9,10 @@ Nossos materiais complementares e de apoio têm como objetivo apresentar informa
 
 [Apresentação do Instrutor.pptx
 ](https://academiapme-my.sharepoint.com/:p:/g/personal/patrick_lima_dio_me/EZHUTimXEoNGorC_X4SYUpgB0VrPHBaD05eI5dfJQVyRuw?e=B9uiQs)
+
 [Computação em nuvem.pptx](https://academiapme-my.sharepoint.com/:p:/g/personal/patrick_lima_dio_me/ESIYb967uzhBn_b9Ng89s5UBnyjS-D613akVjOxhbTGj_w?e=ggub9d)
-[
-Computação em nuvem - Revisão.pptx](https://academiapme-my.sharepoint.com/:p:/g/personal/patrick_lima_dio_me/EVRF9mydMHFFuJjhOH4IXkwBsldXuxozw-i72Lp_pCazpA?e=BoweAx)
+
+[Computação em nuvem - Revisão.pptx](https://academiapme-my.sharepoint.com/:p:/g/personal/patrick_lima_dio_me/EVRF9mydMHFFuJjhOH4IXkwBsldXuxozw-i72Lp_pCazpA?e=BoweAx)
 
 
 ## Dicas/Links Úteis
