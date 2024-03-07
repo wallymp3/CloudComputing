@@ -14,6 +14,10 @@ Nossos materiais complementares e de apoio têm como objetivo apresentar informa
 
 [Computação em nuvem - Revisão.pptx](https://academiapme-my.sharepoint.com/:p:/g/personal/patrick_lima_dio_me/EVRF9mydMHFFuJjhOH4IXkwBsldXuxozw-i72Lp_pCazpA?e=BoweAx)
 
+[Beneficios da nuvem](https://academiapme-my.sharepoint.com/:p:/g/personal/patrick_lima_dio_me/EfLDb1yMPPJAq00iarZLE3IB46EFweePA-uxLYBKhs8pJg?e=3AHFaa)
+
+[Beneficios da Nuvem - Revisão](https://academiapme-my.sharepoint.com/:p:/g/personal/patrick_lima_dio_me/EQ0kXnb8NcZHgfqu4wt3AIEB4UfdnapwpYZhA2PaOweuvQ?e=X7fJWh)
+
 
 ## Dicas/Links Úteis
  
