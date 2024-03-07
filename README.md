@@ -18,6 +18,9 @@ Nossos materiais complementares e de apoio têm como objetivo apresentar informa
 
 [Beneficios da Nuvem - Revisão](https://academiapme-my.sharepoint.com/:p:/g/personal/patrick_lima_dio_me/EQ0kXnb8NcZHgfqu4wt3AIEB4UfdnapwpYZhA2PaOweuvQ?e=X7fJWh)
 
+## Consultas
+
+[Consultar Rede Global Azure](https://azure.microsoft.com/pt-br/explore/global-infrastructure/global-network/)
 
 ## Dicas/Links Úteis
  
